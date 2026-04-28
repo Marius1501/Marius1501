@@ -11,7 +11,8 @@
 - 💻My programming languages:
   • Java
   • JavaScript
-  • Python (NumPy, Pandas, PyTorch)
+  • TypeScript
+  • Python
   • Kotlin
 - 📫 How to reach me: malemo2001@gmail.com or marius.wagner@tum.de
 
